@@ -1,6 +1,6 @@
-I have a few different SSL certificates that use Let's Encrypt. These are the details on how to renew the certificates when they expire.
+I have tried API's in java but Java Spark is more intuitive. These are the details on how to install java spark on windows
 
-### Mail server ###
+### local server ###
 
 * item 1
 * item 2
